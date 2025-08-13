@@ -1,0 +1,37 @@
+[
+  {
+    "FirstName": "Bob",
+    "LastName": "Smith",
+    "CourseName": "Python 100"
+  },
+  {
+    "FirstName": "Sue",
+    "LastName": "Jones",
+    "CourseName": "Python 100"
+  },
+  {
+    "FirstName": "Vic",
+    "LastName": "Vu",
+    "CourseName": "Java 303"
+  },
+  {
+    "FirstName": "John",
+    "LastName": "Doe",
+    "CourseName": "Arts 101"
+  },
+  {
+    "FirstName": "John",
+    "LastName": "Tester",
+    "CourseName": "Python 110"
+  },
+  {
+    "FirstName": "Mary",
+    "LastName": "Jones",
+    "CourseName": "Cooking 303"
+  },
+  {
+    "FirstName": "Susan",
+    "LastName": "Boyle",
+    "CourseName": "Singing 201"
+  }
+]
