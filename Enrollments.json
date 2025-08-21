@@ -12,26 +12,26 @@
   {
     "FirstName": "Vic",
     "LastName": "Vu",
-    "CourseName": "Java 303"
+    "CourseName": "Java 404"
   },
   {
     "FirstName": "John",
     "LastName": "Doe",
-    "CourseName": "Arts 101"
+    "CourseName": "Law 785"
   },
   {
     "FirstName": "John",
-    "LastName": "Tester",
-    "CourseName": "Python 110"
+    "LastName": "Meyer",
+    "CourseName": "Singing 245"
   },
   {
-    "FirstName": "Mary",
-    "LastName": "Jones",
-    "CourseName": "Cooking 303"
+    "FirstName": "Ralph",
+    "LastName": "Mathews",
+    "CourseName": "Acting 739"
   },
   {
-    "FirstName": "Susan",
-    "LastName": "Boyle",
-    "CourseName": "Singing 201"
+    "FirstName": "Mathilda",
+    "LastName": "Santos",
+    "CourseName": "Finance 101"
   }
 ]
